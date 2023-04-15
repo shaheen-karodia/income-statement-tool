@@ -76,8 +76,12 @@ const App = () => {
   return (
     <div classname="main">
       <div class="container">
-        <a href="https://bash.com/archive">Full archive url</a>
-        <a href="/archive">relative archive url</a>
+        <a href="https://bash.com/archive" target="_parent">
+          Full archive url
+        </a>
+        <a href="/archive" target="_parent">
+          relative archive url
+        </a>
         <h1 class="title is-1">ChiroCalculator</h1>
         <div class="columns is-8 is-variable">
           <h1 class="title is-2">ChiroCalculator</h1>
