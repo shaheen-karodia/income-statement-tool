@@ -87,7 +87,6 @@ const App = () => {
         </div>
 
         <div class="columns is-8 is-variable">
-          <h1 class="title is-2">ChiroCalculator</h1>
           <div className="column is-three-fifths">
             <div class="field">
               <label class="label">What is your ZIP Code?</label>
